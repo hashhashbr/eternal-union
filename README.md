@@ -38,11 +38,11 @@ Eternal Union is an application that allows you to register marriages on the blo
  
  ### Screenshot
 
-![Eternal Union Screenshot](./assets/screenshot.png)
+![Eternal Union Screenshot](./assets/eternal1.png)
 
 ### Demo Video
 
-[![Eternal Union Demo](./assets/screenshot.png)](./assets/demo.mp4)
+[![Eternal Union Demo](./assets/eternal1.png)](./assets/eternalunion.mp4)
 
 *Click the image to watch a short demo video of the Eternal Union application.*
 
