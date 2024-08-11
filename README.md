@@ -48,9 +48,7 @@ Eternal Union is an application that allows you to register marriages on the blo
 
 ## Installation
 
-Follow the steps below to set up and run the project locally:
-
-### Prerequisites
+ Prerequisites
 
 - Node.js (version 14 or higher)
 - NPM (version 6 or higher)
